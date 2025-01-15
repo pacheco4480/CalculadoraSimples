@@ -20,4 +20,4 @@
 ## How to Use 📌
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/pacheco4480/Interactive-Calculator.git
+   git clone https://github.com/pacheco4480/CalculadoraSimples.git
